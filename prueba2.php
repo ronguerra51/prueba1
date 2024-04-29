@@ -9,5 +9,8 @@
     <?php 
     echo "hola mundo!!";
     ?>
+    <?php
+    echo "Vasquez es gay";
+    ?>
 </body>
 </html>
